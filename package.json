@@ -18,7 +18,6 @@
   "homepage": "https://github.com/RasamizafyB/node-js-cli#readme",
   "dependencies": {
     "axios": "^0.20.0",
-    "country-list": "^2.2.0",
-    "ora": "^5.1.0"
+    "country-list": "^2.2.0"
   }
 }
