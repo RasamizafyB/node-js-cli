@@ -16,8 +16,8 @@ You can install it using npm :
 npm install @rasamizafy/holidates
 ```
 
-Version
-1.0.1
+## Version
+1.0.2
 
 ## Dependance
 - [axios](https://github.com/axios/axios)
